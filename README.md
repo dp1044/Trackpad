@@ -1,6 +1,7 @@
 # Trackpad
 Azoteq Trackpad
 This is the firmware repository for the Azoteq TPS43 using the Waveshare RP2040-zero
+
 After soldering the wires, Plug in the RP2040-Zero holding down the boot button.
 Copy the appropiate firmware to the RP2040-Zero. After it reboots your should now have the touchpad working.
 
