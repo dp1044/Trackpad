@@ -8,6 +8,7 @@ handwired_onekey_rp2040-Zero-TPS43.uf2 is for the azoteq TPS43
 handwired_onekey_rp2040-Zero-TPS65.uf2 is for the azoteq TPS65
 
 Wiring
+
 SDA  Pin 2
 SCL  Pin 3
 3V3  Pin 3V3
